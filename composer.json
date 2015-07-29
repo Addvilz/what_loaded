@@ -1,0 +1,13 @@
+{
+    "name": "addvilz/what_loaded",
+    "description": "Determine What packages, classes and vendors were loaded during execution",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Matiss Treinis",
+            "email": "mrtreinis@gmail.com"
+        }
+    ],
+    "require": {}
+}
