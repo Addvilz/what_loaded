@@ -1,6 +1,6 @@
 # WhatLoaded?!
 
-WhatLoaded is essentially a autoloader hook that listens for autoload calls and registerall classes that is loaded via autoloader.
+WhatLoaded is essentially a autoloader hook that listens for autoload calls and registers all classes that is loaded via autoloader.
 It is later possible to analyze this data to get insight on dependencies and whatever othedata you might extract from this.
 
 ## Installation
